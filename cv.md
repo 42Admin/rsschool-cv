@@ -1,6 +1,6 @@
 # Deni Iusupov
 ### Contacts
-**Phone:** +375 29 194-37-52  
+**Phone:** +375 29 134-40-41
 **Email:** deniyusupov06122004@gmail.com  
 **Location:** Grozny, Russia  
 ***
@@ -22,6 +22,9 @@ while (i < list.length) {
     i = i + 1
 }
 ```
+***
+### Education
+University: Saint Petersburg Electrotechnical University "LETI"
 
-
+English Level: B1
 
